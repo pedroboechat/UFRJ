@@ -1,1 +1,1 @@
-Academicos
+Repositório contendo meus trabalhos acadêmicos.
