@@ -1,0 +1,3 @@
+https://www.nersc.gov/assets/Uploads/Tutorial-ISC2019-Intro-v2.pdf
+https://crd.lbl.gov/departments/computer-science/par/research/roofline/
+https://software.intel.com/content/www/us/en/develop/tools/oneapi.html#gs.b0k422
